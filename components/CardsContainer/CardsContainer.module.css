@@ -1,0 +1,14 @@
+.wrapper {
+    border-bottom: 1px solid black;
+    padding-bottom: 150px;
+}
+.title {
+    font-weight: 200;
+}
+.cardsWrapper {
+    display: flex;
+    grid-gap: 20px;
+}
+.h1 {
+    text-align: center;
+}
